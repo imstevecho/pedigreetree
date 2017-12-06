@@ -1,0 +1,1370 @@
+{
+    "status": "success",
+    "data": {
+        "persons": [
+            {
+                "id": "49174092-1000883",
+                "name": "Ethan Moses Gonen",
+                "names": [
+                    "Ethan Moses Gonen",
+                    "Ethan M Gonen",
+                    "Ethan Gonen",
+                    "E M Gonen",
+                    "E Gonen"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 2010",
+                "birthDate": "January 12 2010",
+                "deathDate": "",
+                "generation": 0,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000004",
+                "name": "Uri Gonen",
+                "names": [
+                    "Uri Gonen",
+                    "U Gonen"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 1963",
+                "birthDate": "December 15 1963",
+                "deathDate": "",
+                "generation": 1,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000003",
+                "name": "Julia Francine Gonen (born Castor)",
+                "names": [
+                    "Julia Francine Castor",
+                    "Julia F Castor",
+                    "Julia Castor",
+                    "J F Castor",
+                    "J Castor"
+                ],
+                "gender": "F",
+                "yearsRange": "Born: 1970",
+                "birthDate": "November 6 1970",
+                "deathDate": "",
+                "generation": 1,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000005",
+                "name": "Prof. Amiram Gonen",
+                "names": [
+                    "Prof. Amiram Gonen",
+                    "Amiram Gonen",
+                    "A Gonen"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 1935",
+                "birthDate": "October 3 1935",
+                "deathDate": "",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000001",
+                "name": "Bill Castor",
+                "names": [
+                    "Bill Castor",
+                    "B Castor"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 1939",
+                "birthDate": "June 2 1939",
+                "deathDate": "",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000122",
+                "name": "Dr. Rivka Gonen (born Biger)",
+                "names": [
+                    "Dr. Rivka Biger",
+                    "Rivka Biger",
+                    "R Biger"
+                ],
+                "gender": "F",
+                "yearsRange": "Born: 1937",
+                "birthDate": "May 7 1937",
+                "deathDate": "",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000002",
+                "name": "Lynda Sherrin Castor (born Levine)",
+                "names": [
+                    "Lynda Sherrin Levine",
+                    "Lynda S Levine",
+                    "Lynda Levine",
+                    "L S Levine",
+                    "L Levine"
+                ],
+                "gender": "F",
+                "yearsRange": "Born: 1942",
+                "birthDate": "May 11 1942",
+                "deathDate": "",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000014",
+                "name": "Helen (Hinde) Gabriella Castor (born Leuchter)",
+                "names": [
+                    "Helen (Hinde) Gabriella Leuchter",
+                    "Helen (Hinde) G Leuchter",
+                    "Helen (Hinde) Leuchter",
+                    "Helen H G Leuchter",
+                    "Helen H Leuchter",
+                    "Helen Leuchter",
+                    "H H G Leuchter",
+                    "H H Leuchter",
+                    "H Leuchter"
+                ],
+                "gender": "F",
+                "yearsRange": "1919 - 2004",
+                "birthDate": "August 25 1919",
+                "deathDate": "December 31 2004",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000015",
+                "name": "Ralph (Morris) Moishe Castor",
+                "names": [
+                    "Ralph (Morris) Moishe Castor",
+                    "Ralph (Morris) M Castor",
+                    "Ralph (Morris) Castor",
+                    "Ralph M M Castor",
+                    "Ralph M Castor",
+                    "Ralph Castor",
+                    "R M M Castor",
+                    "R M Castor",
+                    "R Castor"
+                ],
+                "gender": "M",
+                "yearsRange": "1908 - 2004",
+                "birthDate": "June 14 1908",
+                "deathDate": "July 24 2004",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000017",
+                "name": "Simcha (Shlomo) Biger",
+                "names": [
+                    "Simcha (Shlomo) Biger",
+                    "Simcha S Biger",
+                    "Simcha Biger",
+                    "S S Biger",
+                    "S Biger"
+                ],
+                "gender": "M",
+                "yearsRange": "1909 - 1973",
+                "birthDate": 1909,
+                "deathDate": "April 4 1973",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000016",
+                "name": "Erna (Esther) Biger (born Markus)",
+                "names": [
+                    "Erna (Esther) Markus",
+                    "Erna E Markus",
+                    "Erna Markus",
+                    "E E Markus",
+                    "E Markus"
+                ],
+                "gender": "F",
+                "yearsRange": "1914 - 2008",
+                "birthDate": "September 13 1914",
+                "deathDate": "November 24 2008",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000018",
+                "name": "Fruma Gutalevsky (born Fineberg)",
+                "names": [
+                    "Fruma Fineberg",
+                    "F Fineberg"
+                ],
+                "gender": "F",
+                "yearsRange": "1910 - 1980",
+                "birthDate": 1910,
+                "deathDate": 1980,
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000013",
+                "name": "Harry Chaim Levine",
+                "names": [
+                    "Harry Chaim Levine",
+                    "Harry C Levine",
+                    "Harry Levine",
+                    "H C Levine",
+                    "H Levine"
+                ],
+                "gender": "M",
+                "yearsRange": "1909 - 1988",
+                "birthDate": "January 15 1909",
+                "deathDate": "May 23 1988",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000012",
+                "name": "Eunice Chana Levine (born Goldman)",
+                "names": [
+                    "Eunice Chana Goldman",
+                    "Eunice C Goldman",
+                    "Eunice Goldman",
+                    "E C Goldman",
+                    "E Goldman"
+                ],
+                "gender": "F",
+                "yearsRange": "1912 - 1998",
+                "birthDate": "September 10 1912",
+                "deathDate": 1998,
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000019",
+                "name": "Chaim Gutalevsky (Gutelevsky)",
+                "names": [
+                    "Chaim Gutalevsky (Gutelevsky)",
+                    "C Gutalevsky (Gutelevsky)"
+                ],
+                "gender": "M",
+                "yearsRange": "1903 - 1992",
+                "birthDate": 1903,
+                "deathDate": 1992,
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000340",
+                "name": "Ester-Rivka Biger (born Diskin)",
+                "names": [
+                    "Ester-Rivka Diskin",
+                    "Ester-R Diskin",
+                    "Ester Diskin",
+                    "E-R Diskin",
+                    "E Diskin"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1916",
+                "birthDate": "",
+                "deathDate": 1916,
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000020",
+                "name": "Julia (Faiga) Leuchter",
+                "names": [
+                    "Julia (Faiga) Leuchter",
+                    "Julia F Leuchter",
+                    "Julia Leuchter",
+                    "J F Leuchter",
+                    "J Leuchter"
+                ],
+                "gender": "F",
+                "yearsRange": "1892 - 1969",
+                "birthDate": "February 12 1892",
+                "deathDate": "December 31 1969",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000037",
+                "name": "Bertha (Basha) Kesztenbaum (born Sinhover)",
+                "names": [
+                    "Bertha (Basha) Sinhover",
+                    "Bertha B Sinhover",
+                    "Bertha Sinhover",
+                    "B B Sinhover",
+                    "B Sinhover"
+                ],
+                "gender": "F",
+                "yearsRange": "1863 - 1936",
+                "birthDate": 1863,
+                "deathDate": "March 31 1936",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000038",
+                "name": "Bernard (Dov) Kesztenbaum",
+                "names": [
+                    "Bernard (Dov) Kesztenbaum",
+                    "Bernard D Kesztenbaum",
+                    "Bernard Kesztenbaum",
+                    "B D Kesztenbaum",
+                    "B Kesztenbaum"
+                ],
+                "gender": "M",
+                "yearsRange": "1856 - 1940",
+                "birthDate": 1856,
+                "deathDate": "January 30 1940",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000283",
+                "name": "Louis (Leizer) Levine",
+                "names": [
+                    "Louis (Leizer) Levine",
+                    "Louis L Levine",
+                    "Louis Levine",
+                    "L L Levine",
+                    "L Levine"
+                ],
+                "gender": "M",
+                "yearsRange": "1864 - 1968",
+                "birthDate": 1864,
+                "deathDate": 1968,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000282",
+                "name": "Sara Malka Levine (born Reuben)",
+                "names": [
+                    "Sara Malka Reuben",
+                    "Sara M Reuben",
+                    "Sara Reuben",
+                    "S M Reuben",
+                    "S Reuben"
+                ],
+                "gender": "F",
+                "yearsRange": "1868 - 1941",
+                "birthDate": 1868,
+                "deathDate": 1941,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000044",
+                "name": "Isaac Yaakov Goldman",
+                "names": [
+                    "Isaac Yaakov Goldman",
+                    "Isaac Y Goldman",
+                    "Isaac Goldman",
+                    "I Y Goldman",
+                    "I Goldman"
+                ],
+                "gender": "M",
+                "yearsRange": "1868 - 1967",
+                "birthDate": 1868,
+                "deathDate": 1967,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000067",
+                "name": "Leah (Mama) Markus (born Mehl)",
+                "names": [
+                    "Leah (Mama) Mehl",
+                    "Leah M Mehl",
+                    "Leah Mehl",
+                    "L M Mehl",
+                    "L Mehl"
+                ],
+                "gender": "F",
+                "yearsRange": "1893 - 1978",
+                "birthDate": 1893,
+                "deathDate": 1978,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000021",
+                "name": "Ignatz (Nachman) Leuchter",
+                "names": [
+                    "Ignatz (Nachman) Leuchter",
+                    "Ignatz N Leuchter",
+                    "Ignatz Leuchter",
+                    "I N Leuchter",
+                    "I Leuchter"
+                ],
+                "gender": "M",
+                "yearsRange": "1887 - 1954",
+                "birthDate": "March 12 1887",
+                "deathDate": "March 5 1954",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000068",
+                "name": "Yakov (Papa) Markus",
+                "names": [
+                    "Yakov (Papa) Markus",
+                    "Yakov P Markus",
+                    "Yakov Markus",
+                    "Y P Markus",
+                    "Y Markus"
+                ],
+                "gender": "M",
+                "yearsRange": "1889 - 1979",
+                "birthDate": 1889,
+                "deathDate": 1979,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000043",
+                "name": "Leah Goldman",
+                "names": [
+                    "Leah",
+                    "L"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1938",
+                "birthDate": "",
+                "deathDate": "June 22 1938",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000134",
+                "name": "Malka Gutelevsky (Gutalewski) (born Vilensky)",
+                "names": [
+                    "Malka Vilensky",
+                    "M Vilensky"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1942",
+                "birthDate": "",
+                "deathDate": "May 8 1942",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000341",
+                "name": "Moshe Biger",
+                "names": [
+                    "Moshe Biger",
+                    "M Biger"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000344",
+                "name": "Hirsh (Zvi) Fineberg (Przibulski)",
+                "names": [
+                    "Hirsh (Zvi) Fineberg (Przibulski)",
+                    "Hirsh Z Fineberg (Przibulski)",
+                    "Hirsh Fineberg (Przibulski)",
+                    "H Z Fineberg (Przibulski)",
+                    "H Fineberg (Przibulski)"
+                ],
+                "gender": "M",
+                "yearsRange": "1870 - 1958",
+                "birthDate": 1870,
+                "deathDate": 1958,
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000343",
+                "name": "Hinda (Miriam) Fineberg (Przibulski)",
+                "names": [
+                    "Hinda (Miriam)",
+                    "Hinda M",
+                    "Hinda",
+                    "H M",
+                    "H"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1946",
+                "birthDate": "",
+                "deathDate": 1946,
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000135",
+                "name": "Feive (Shraga) Gutelevsky (Gutalewski)",
+                "names": [
+                    "Feive (Shraga) Gutelevsky (Gutalewski)",
+                    "Feive S Gutelevsky (Gutalewski)",
+                    "Feive Gutelevsky (Gutalewski)",
+                    "F S Gutelevsky (Gutalewski)",
+                    "F Gutelevsky (Gutalewski)"
+                ],
+                "gender": "M",
+                "yearsRange": "1877 - 1942",
+                "birthDate": 1877,
+                "deathDate": "May 8 1942",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000479",
+                "name": "Unknown Reuben",
+                "names": [
+                    "Unknown Reuben",
+                    "? Reuben"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000474",
+                "name": "Unknown Grandowski",
+                "names": [
+                    "Unknown",
+                    "?"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000475",
+                "name": "Unknown Grandowski",
+                "names": [
+                    "Unknown Grandowski",
+                    "? Grandowski"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000888",
+                "name": "Sima Gutelevsky (born Kotcher)",
+                "names": [
+                    "Sima Kotcher",
+                    "S Kotcher"
+                ],
+                "gender": "F",
+                "yearsRange": "1838 - Deceased ",
+                "birthDate": 1838,
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000494",
+                "name": "Shlomo Simcha Yanover-Diskin",
+                "names": [
+                    "Shlomo Simcha Yanover-Diskin",
+                    "Shlomo S Yanover-Diskin",
+                    "Shlomo Yanover-Diskin",
+                    "S S Yanover-Diskin",
+                    "S Yanover-Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "1845 - 1909",
+                "birthDate": "Between 1845 and 1846",
+                "deathDate": 1909,
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000204",
+                "name": "Yosef Grosz",
+                "names": [
+                    "Yosef Grosz",
+                    "Y Grosz"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000478",
+                "name": "Unknown Reuben",
+                "names": [
+                    "Unknown",
+                    "?"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000185",
+                "name": "Hanna (Hinde) Leuchter (born Fixler)",
+                "names": [
+                    "Hanna (Hinde) Fixler",
+                    "Hanna H Fixler",
+                    "Hanna Fixler",
+                    "H H Fixler",
+                    "H Fixler"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000186",
+                "name": "William (Zev) Leuchter",
+                "names": [
+                    "William (Zev) Leuchter",
+                    "William Z Leuchter",
+                    "William Leuchter",
+                    "W Z Leuchter",
+                    "W Leuchter"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000887",
+                "name": "Yosef (Yoshe) Gutelevsky",
+                "names": [
+                    "Yosef (Yoshe) Gutelevsky",
+                    "Yosef Y Gutelevsky",
+                    "Yosef Gutelevsky",
+                    "Y Y Gutelevsky",
+                    "Y Gutelevsky"
+                ],
+                "gender": "M",
+                "yearsRange": "1834 - Deceased ",
+                "birthDate": 1834,
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000663",
+                "name": "? Przibulski",
+                "names": [
+                    "? Przibulski",
+                    "Przibulski"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000203",
+                "name": "Sara Grosz (born Klein)",
+                "names": [
+                    "Sara Klein",
+                    "S Klein"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500451",
+                "name": "David Zvi Sinhover",
+                "names": [
+                    "David Zvi Sinhover",
+                    "David Z Sinhover",
+                    "David Sinhover",
+                    "D Z Sinhover",
+                    "D Sinhover"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000664",
+                "name": "? Przibulski (born ?)",
+                "names": [
+                    "? ?",
+                    "?"
+                ],
+                "gender": "F",
+                "yearsRange": "",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500160",
+                "name": "\u05d0\u05dc\u05ea\u05e8 \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8 1",
+                "names": [
+                    "\u05d0\u05dc\u05ea\u05e8 \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8 1",
+                    "\u05d0\u05dc\u05ea\u05e8 \u05d1\u05d9\u05d2\u05e8 1",
+                    "\u05d1\u05d9\u05d2\u05e8 1"
+                ],
+                "gender": "M",
+                "yearsRange": "1868 - 1882",
+                "birthDate": 1868,
+                "deathDate": 1882,
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000515",
+                "name": "Ethel Mehl (born Zimmet)",
+                "names": [
+                    "Ethel Zimmet",
+                    "E Zimmet"
+                ],
+                "gender": "F",
+                "yearsRange": "1870 - 1942",
+                "birthDate": 1870,
+                "deathDate": 1942,
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000516",
+                "name": "Moshe Mehl",
+                "names": [
+                    "Moshe Mehl",
+                    "M Mehl"
+                ],
+                "gender": "M",
+                "yearsRange": "1870 - 1942",
+                "birthDate": 1870,
+                "deathDate": 1942,
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000493",
+                "name": "Chana Chinka Feige Yanover-Diskin",
+                "names": [
+                    "Chana Chinka Feige Diskin",
+                    "Chana Chinka F Diskin",
+                    "Chana Chinka Diskin",
+                    "Chana C F Diskin",
+                    "Chana C Diskin",
+                    "Chana Diskin",
+                    "C C F Diskin",
+                    "C C Diskin",
+                    "C Diskin"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000086",
+                "name": "Rosa Markus",
+                "names": [
+                    "Rosa",
+                    "R"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1945",
+                "birthDate": "",
+                "deathDate": 1945,
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000087",
+                "name": "Nachum Markus (Weintraub)",
+                "names": [
+                    "Nachum Markus (Weintraub)",
+                    "N Markus (Weintraub)"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500450",
+                "name": "Yosef Kesztenbaum",
+                "names": [
+                    "Yosef Kesztenbaum",
+                    "Y Kesztenbaum"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500161",
+                "name": "\u05d1\u05d9\u05dc\u05d4 \u05d1\u05d9\u05d2\u05e8 (born \u05e4\u05d3\u05e8\u05de\u05df)",
+                "names": [
+                    "\u05d1\u05d9\u05dc\u05d4 \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05e4\u05d3\u05e8\u05de\u05df"
+                ],
+                "gender": "F",
+                "yearsRange": "1869 - 1957",
+                "birthDate": 1869,
+                "deathDate": 1957,
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500021",
+                "name": "Chaia Sarah Yanover Diskin",
+                "names": [
+                    "Chaia Sarah",
+                    "Chaia S",
+                    "Chaia",
+                    "C S",
+                    "C"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500018",
+                "name": "Avraham Shmuel Shatz Diskin",
+                "names": [
+                    "Avraham Shmuel Shatz Diskin",
+                    "Avraham S Shatz Diskin",
+                    "Avraham Shatz Diskin",
+                    "A S Shatz Diskin",
+                    "A Shatz Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500019",
+                "name": "Chaia Reisha Shatz Diskin",
+                "names": [
+                    "Chaia Reisha",
+                    "Chaia R",
+                    "Chaia",
+                    "C R",
+                    "C"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500020",
+                "name": "Moshe Yehoshua Yanover Diskin",
+                "names": [
+                    "Moshe Yehoshua Yanover Diskin",
+                    "Moshe Y Yanover Diskin",
+                    "Moshe Yanover Diskin",
+                    "M Y Yanover Diskin",
+                    "M Yanover Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1001145",
+                "name": "Naftali Gutelevsky",
+                "names": [
+                    "Naftali Gutelevsky",
+                    "N Gutelevsky"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1001109",
+                "name": "Mother of Eliezer Kotcher",
+                "names": [
+                    "Mother of Eliezer",
+                    "Mother of E",
+                    "Mother of",
+                    "Mother o E",
+                    "Mother o",
+                    "Mother",
+                    "M o E",
+                    "M o",
+                    "M"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500168",
+                "name": "\u05d0\u05d1\u05e8\u05d4\u05dd  \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e1\u05d5\u05e4\u05e8 \u05e4\u05d3\u05e8\u05de\u05df",
+                "names": [
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd  \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e1\u05d5\u05e4\u05e8 \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05e4\u05d3\u05e8\u05de\u05df"
+                ],
+                "gender": "M",
+                "yearsRange": "1846 - Deceased ",
+                "birthDate": 1846,
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1001108",
+                "name": "Father of Eliezer Kotcher",
+                "names": [
+                    "Father of Eliezer Kotcher",
+                    "Father of E Kotcher",
+                    "Father of Kotcher",
+                    "Father o E Kotcher",
+                    "Father o Kotcher",
+                    "Father Kotcher",
+                    "F o E Kotcher",
+                    "F o Kotcher",
+                    "F Kotcher"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500165",
+                "name": "\u05d7\u05d9\u05d4 \u05e8\u05d1\u05e7\u05d4 \u05d1\u05d9\u05d2\u05e8 1",
+                "names": [
+                    "\u05d7\u05d9\u05d4 \u05e8\u05d1\u05e7\u05d4",
+                    "\u05d7\u05d9\u05d4",
+                    ""
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000187",
+                "name": "Unknown Fixler",
+                "names": [
+                    "Unknown",
+                    "?"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000188",
+                "name": "Jahuda (Akiba) Fixler",
+                "names": [
+                    "Jahuda (Akiba) Fixler",
+                    "Jahuda A Fixler",
+                    "Jahuda Fixler",
+                    "J A Fixler",
+                    "J Fixler"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500164",
+                "name": "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05dc\u05d9\u05d9\u05d1 \u05d1\u05d9\u05d2\u05e8",
+                "names": [
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05dc\u05d9\u05d9\u05d1 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d1\u05d9\u05d2\u05e8"
+                ],
+                "gender": "M",
+                "yearsRange": "1845 - 1913",
+                "birthDate": 1845,
+                "deathDate": "January 9 1913",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500169",
+                "name": "\u05de\u05e8\u05d9\u05dd \u05e4\u05d3\u05e8\u05de\u05df (born \u05e1\u05e4\u05e7\u05d8\u05d5\u05e8)",
+                "names": [
+                    "\u05de\u05e8\u05d9\u05dd \u05e1\u05e4\u05e7\u05d8\u05d5\u05e8",
+                    "\u05e1\u05e4\u05e7\u05d8\u05d5\u05e8"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased ",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": true
+            }
+        ],
+        "families": [
+            {
+                "id": "49174092-1000002",
+                "husband": "49174092-1000004",
+                "wifeId": "49174092-1000004",
+                "status": "Married",
+                "generation": 0
+            },
+            {
+                "id": "49174092-1000003",
+                "husband": "49174092-1000005",
+                "wifeId": "49174092-1000005",
+                "status": "Married",
+                "generation": 1
+            },
+            {
+                "id": "49174092-1000001",
+                "husband": "49174092-1000001",
+                "wifeId": "49174092-1000001",
+                "status": "Married",
+                "generation": 1
+            },
+            {
+                "id": "49174092-1000007",
+                "husband": "49174092-1000019",
+                "wifeId": "49174092-1000019",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000005",
+                "husband": "49174092-1000013",
+                "wifeId": "49174092-1000013",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000006",
+                "husband": "49174092-1000015",
+                "wifeId": "49174092-1000015",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000015",
+                "husband": "49174092-1000017",
+                "wifeId": "49174092-1000017",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000099",
+                "husband": "49174092-1000283",
+                "wifeId": "49174092-1000283",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000038",
+                "husband": "49174092-1000021",
+                "wifeId": "49174092-1000021",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000037",
+                "husband": "49174092-1000038",
+                "wifeId": "49174092-1000038",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000016",
+                "husband": "49174092-1000068",
+                "wifeId": "49174092-1000068",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000010",
+                "husband": "49174092-1000044",
+                "wifeId": "49174092-1000044",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000041",
+                "husband": "49174092-1000135",
+                "wifeId": "49174092-1000135",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000120",
+                "husband": "49174092-1000341",
+                "wifeId": "49174092-1000341",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000121",
+                "husband": "49174092-1000344",
+                "wifeId": "49174092-1000344",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1500301",
+                "husband": "49174092-1500450",
+                "wifeId": "49174092-1500450",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000158",
+                "husband": "49174092-1000479",
+                "wifeId": "49174092-1000479",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000156",
+                "husband": "49174092-1000475",
+                "wifeId": "49174092-1000475",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000311",
+                "husband": "49174092-1000887",
+                "wifeId": "49174092-1000887",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000068",
+                "husband": "49174092-1000204",
+                "wifeId": "49174092-1000204",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000060",
+                "husband": "49174092-1000186",
+                "wifeId": "49174092-1000186",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500302",
+                "husband": "49174092-1500451",
+                "wifeId": "49174092-1500451",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500065",
+                "husband": "49174092-1500160",
+                "wifeId": "49174092-1500160",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000226",
+                "husband": "49174092-1000663",
+                "wifeId": "49174092-1000663",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000171",
+                "husband": "49174092-1000516",
+                "wifeId": "49174092-1000516",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000021",
+                "husband": "49174092-1000087",
+                "wifeId": "49174092-1000087",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000165",
+                "husband": "49174092-1000494",
+                "wifeId": "49174092-1000494",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500066",
+                "husband": "49174092-1500164",
+                "wifeId": "49174092-1500164",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1000393",
+                "husband": "49174092-1001145",
+                "wifeId": "49174092-1001145",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1000061",
+                "husband": "49174092-1000188",
+                "wifeId": "49174092-1000188",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1500012",
+                "husband": "49174092-1500020",
+                "wifeId": "49174092-1500020",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1500011",
+                "husband": "49174092-1500018",
+                "wifeId": "49174092-1500018",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1500067",
+                "husband": "49174092-1500168",
+                "wifeId": "49174092-1500168",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1000383",
+                "husband": "49174092-1001108",
+                "wifeId": "49174092-1001108",
+                "status": "Married",
+                "generation": 5
+            }
+        ]
+    }
+}
