@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './index.css';
-import FamilyData from './data/pedigreeTreeSuccess.json';
+import FamilyData from './data/pedigree-49174092-1000004-uri-gonen.json';
 import PersonCard from './components/person_card'
 import SvgRelationshipMap from './components/svg_relationship_map'
 

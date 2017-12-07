@@ -1,0 +1,1036 @@
+{
+    "status": "success",
+    "data": {
+        "persons": [
+            {
+                "id": "49174092-1000004",
+                "name": "Uri Gonen",
+                "names": [
+                    "Uri Gonen",
+                    "U Gonen"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 1963",
+                "birthDate": "December 15 1963",
+                "deathDate": "",
+                "generation": 0,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000003"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/503\/503182_324429c77ef7l5e6m78859_P_60x80.jpg",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000005",
+                "name": "Prof. Amiram Gonen",
+                "names": [
+                    "Prof. Amiram Gonen",
+                    "Amiram Gonen",
+                    "A Gonen"
+                ],
+                "gender": "M",
+                "yearsRange": "Born: 1935",
+                "birthDate": "October 3 1935",
+                "deathDate": "",
+                "generation": 1,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000007"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/000\/000006_505294c435139438l6nc17_O_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000122",
+                "name": "Dr. Rivka Gonen (born Biger)",
+                "names": [
+                    "Dr. Rivka Biger",
+                    "Rivka Biger",
+                    "R Biger"
+                ],
+                "gender": "F",
+                "yearsRange": "Born: 1937",
+                "birthDate": "May 7 1937",
+                "deathDate": "",
+                "generation": 1,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000015"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500321_563717606a85a45obozf08_Q_58x80.JPG",
+                    "width": 58,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000017",
+                "name": "Simcha (Shlomo) Biger",
+                "names": [
+                    "Simcha (Shlomo) Biger",
+                    "Simcha S Biger",
+                    "Simcha Biger",
+                    "S S Biger",
+                    "S Biger"
+                ],
+                "gender": "M",
+                "yearsRange": "1909 - 1973",
+                "birthDate": 1909,
+                "deathDate": "April 4 1973",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000120"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500184_963258c2dc2394jc9ejc17_M_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000016",
+                "name": "Erna (Esther) Biger (born Markus)",
+                "names": [
+                    "Erna (Esther) Markus",
+                    "Erna E Markus",
+                    "Erna Markus",
+                    "E E Markus",
+                    "E Markus"
+                ],
+                "gender": "F",
+                "yearsRange": "1914 - 2008",
+                "birthDate": "September 13 1914",
+                "deathDate": "November 24 2008",
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000016"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/000\/000001_8389217d15139481ybw502_O_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000018",
+                "name": "Fruma Gutalevsky (born Fineberg)",
+                "names": [
+                    "Fruma Fineberg",
+                    "F Fineberg"
+                ],
+                "gender": "F",
+                "yearsRange": "1910 - 1980",
+                "birthDate": 1910,
+                "deathDate": 1980,
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000121"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500237_96927230697394ota3w584_O_60x79.JPG",
+                    "width": 60,
+                    "height": 79
+                }
+            },
+            {
+                "id": "49174092-1000019",
+                "name": "Chaim Gutalevsky (Gutelevsky)",
+                "names": [
+                    "Chaim Gutalevsky (Gutelevsky)",
+                    "C Gutalevsky (Gutelevsky)"
+                ],
+                "gender": "M",
+                "yearsRange": "1903 - 1992",
+                "birthDate": 1903,
+                "deathDate": 1992,
+                "generation": 2,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000041"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/502\/502871_117798z7w261y31fw243f3_D_60x69.JPG",
+                    "width": 60,
+                    "height": 69
+                }
+            },
+            {
+                "id": "49174092-1000068",
+                "name": "Yakov (Papa) Markus",
+                "names": [
+                    "Yakov (Papa) Markus",
+                    "Yakov P Markus",
+                    "Yakov Markus",
+                    "Y P Markus",
+                    "Y Markus"
+                ],
+                "gender": "M",
+                "yearsRange": "1889 - 1979",
+                "birthDate": 1889,
+                "deathDate": 1979,
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000021"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500190_501698615d2394xqvkxy29_O_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000134",
+                "name": "Malka Gutelevsky (Gutalewski) (born Vilensky)",
+                "names": [
+                    "Malka Vilensky",
+                    "M Vilensky"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1942",
+                "birthDate": "",
+                "deathDate": "May 8 1942",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": false,
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/502\/502988_694898de0j70in52ct3ba9_F_60x73.jpg",
+                    "width": 60,
+                    "height": 73
+                }
+            },
+            {
+                "id": "49174092-1000067",
+                "name": "Leah (Mama) Markus (born Mehl)",
+                "names": [
+                    "Leah (Mama) Mehl",
+                    "Leah M Mehl",
+                    "Leah Mehl",
+                    "L M Mehl",
+                    "L Mehl"
+                ],
+                "gender": "F",
+                "yearsRange": "1893 - 1978",
+                "birthDate": 1893,
+                "deathDate": 1978,
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000171"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500189_9272325ffc2394o9engt06_M_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000344",
+                "name": "Hirsh (Zvi) Fineberg (Przibulski)",
+                "names": [
+                    "Hirsh (Zvi) Fineberg (Przibulski)",
+                    "Hirsh Z Fineberg (Przibulski)",
+                    "Hirsh Fineberg (Przibulski)",
+                    "H Z Fineberg (Przibulski)",
+                    "H Fineberg (Przibulski)"
+                ],
+                "gender": "M",
+                "yearsRange": "1870 - 1958",
+                "birthDate": 1870,
+                "deathDate": 1958,
+                "generation": 3,
+                "recordMatches": false,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000226"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/501\/501821_716442me2dd68b4p8z6mmc_Y_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000343",
+                "name": "Hinda (Miriam) Fineberg (Przibulski)",
+                "names": [
+                    "Hinda (Miriam)",
+                    "Hinda M",
+                    "Hinda",
+                    "H M",
+                    "H"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1946",
+                "birthDate": "",
+                "deathDate": 1946,
+                "generation": 3,
+                "recordMatches": false,
+                "smartMatches": false,
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500260_563450ab9bc494zg1ij497_O_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000135",
+                "name": "Feive (Shraga) Gutelevsky (Gutalewski)",
+                "names": [
+                    "Feive (Shraga) Gutelevsky (Gutalewski)",
+                    "Feive S Gutelevsky (Gutalewski)",
+                    "Feive Gutelevsky (Gutalewski)",
+                    "F S Gutelevsky (Gutalewski)",
+                    "F Gutelevsky (Gutalewski)"
+                ],
+                "gender": "M",
+                "yearsRange": "1877 - 1942",
+                "birthDate": 1877,
+                "deathDate": "May 8 1942",
+                "generation": 3,
+                "recordMatches": true,
+                "smartMatches": false,
+                "parents": {
+                    "familyId": "49174092-1000311"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/502\/502990_6669556310c4qq62b25s0d_C_60x80.jpg",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000341",
+                "name": "Moshe Biger",
+                "names": [
+                    "Moshe Biger",
+                    "M Biger"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 3,
+                "recordMatches": false,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500065"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500185_36509886dc2394rg1mr802_O_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000340",
+                "name": "Ester-Rivka Biger (born Diskin)",
+                "names": [
+                    "Ester-Rivka Diskin",
+                    "Ester-R Diskin",
+                    "Ester Diskin",
+                    "E-R Diskin",
+                    "E Diskin"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1916",
+                "birthDate": "",
+                "deathDate": 1916,
+                "generation": 3,
+                "recordMatches": false,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000165"
+                }
+            },
+            {
+                "id": "49174092-1000086",
+                "name": "Rosa Markus",
+                "names": [
+                    "Rosa",
+                    "R"
+                ],
+                "gender": "F",
+                "yearsRange": "Died: 1945",
+                "birthDate": "",
+                "deathDate": 1945,
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": false,
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500285_692961be321694bgdi3w08_M_59x80.jpg",
+                    "width": 59,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000087",
+                "name": "Nachum Markus (Weintraub)",
+                "names": [
+                    "Nachum Markus (Weintraub)",
+                    "N Markus (Weintraub)"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000516",
+                "name": "Moshe Mehl",
+                "names": [
+                    "Moshe Mehl",
+                    "M Mehl"
+                ],
+                "gender": "M",
+                "yearsRange": "1870 - 1942",
+                "birthDate": 1870,
+                "deathDate": 1942,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true,
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500299_1690142af6f794v856vw18_P_56x80.JPG",
+                    "width": 56,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000493",
+                "name": "Chana Chinka Feige Yanover-Diskin",
+                "names": [
+                    "Chana Chinka Feige Diskin",
+                    "Chana Chinka F Diskin",
+                    "Chana Chinka Diskin",
+                    "Chana C F Diskin",
+                    "Chana C Diskin",
+                    "Chana Diskin",
+                    "C C F Diskin",
+                    "C C Diskin",
+                    "C Diskin"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500012"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/500\/500294_7478388bc6f794mzgt6v86_R_60x80.JPG",
+                    "width": 60,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000494",
+                "name": "Shlomo Simcha Yanover-Diskin",
+                "names": [
+                    "Shlomo Simcha Yanover-Diskin",
+                    "Shlomo S Yanover-Diskin",
+                    "Shlomo Yanover-Diskin",
+                    "S S Yanover-Diskin",
+                    "S Yanover-Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "1845 - 1909",
+                "birthDate": "Between 1845 and 1846",
+                "deathDate": 1909,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500011"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/502\/502976_4863980e8am2n43dc5548e_C_60x75.JPG",
+                    "width": 60,
+                    "height": 75
+                }
+            },
+            {
+                "id": "49174092-1500161",
+                "name": "\u05d1\u05d9\u05dc\u05d4 \u05d1\u05d9\u05d2\u05e8 (born \u05e4\u05d3\u05e8\u05de\u05df)",
+                "names": [
+                    "\u05d1\u05d9\u05dc\u05d4 \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05e4\u05d3\u05e8\u05de\u05df"
+                ],
+                "gender": "F",
+                "yearsRange": "1869 - 1957",
+                "birthDate": 1869,
+                "deathDate": 1957,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500067"
+                }
+            },
+            {
+                "id": "49174092-1000515",
+                "name": "Ethel Mehl (born Zimmet)",
+                "names": [
+                    "Ethel Zimmet",
+                    "E Zimmet"
+                ],
+                "gender": "F",
+                "yearsRange": "1870 - 1942",
+                "birthDate": 1870,
+                "deathDate": 1942,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1000664",
+                "name": "? Przibulski (born ?)",
+                "names": [
+                    "? ?",
+                    "?"
+                ],
+                "gender": "F",
+                "yearsRange": "",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1000887",
+                "name": "Yosef (Yoshe) Gutelevsky",
+                "names": [
+                    "Yosef (Yoshe) Gutelevsky",
+                    "Yosef Y Gutelevsky",
+                    "Yosef Gutelevsky",
+                    "Y Y Gutelevsky",
+                    "Y Gutelevsky"
+                ],
+                "gender": "M",
+                "yearsRange": "1834 - Deceased",
+                "birthDate": 1834,
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1000393"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/502\/502441_441361890a3bef39u32x4f_D_57x80.jpg",
+                    "width": 57,
+                    "height": 80
+                }
+            },
+            {
+                "id": "49174092-1000888",
+                "name": "Sima Gutelevsky (born Kotcher)",
+                "names": [
+                    "Sima Kotcher",
+                    "S Kotcher"
+                ],
+                "gender": "F",
+                "yearsRange": "1838 - Deceased",
+                "birthDate": 1838,
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": false,
+                "parents": {
+                    "familyId": "49174092-1000383"
+                }
+            },
+            {
+                "id": "49174092-1500160",
+                "name": "\u05d0\u05dc\u05ea\u05e8 \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8 1",
+                "names": [
+                    "\u05d0\u05dc\u05ea\u05e8 \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8 1",
+                    "\u05d0\u05dc\u05ea\u05e8 \u05d1\u05d9\u05d2\u05e8 1",
+                    "\u05d1\u05d9\u05d2\u05e8 1"
+                ],
+                "gender": "M",
+                "yearsRange": "1868 - 1882",
+                "birthDate": 1868,
+                "deathDate": 1882,
+                "generation": 4,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500066"
+                }
+            },
+            {
+                "id": "49174092-1000663",
+                "name": "? Przibulski",
+                "names": [
+                    "? Przibulski",
+                    "Przibulski"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 4,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500020",
+                "name": "Moshe Yehoshua Yanover Diskin",
+                "names": [
+                    "Moshe Yehoshua Yanover Diskin",
+                    "Moshe Y Yanover Diskin",
+                    "Moshe Yanover Diskin",
+                    "M Y Yanover Diskin",
+                    "M Yanover Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false,
+                "parents": {
+                    "familyId": "49174092-1500011"
+                }
+            },
+            {
+                "id": "49174092-1001145",
+                "name": "Naftali Gutelevsky",
+                "names": [
+                    "Naftali Gutelevsky",
+                    "N Gutelevsky"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1001108",
+                "name": "Father of Eliezer Kotcher",
+                "names": [
+                    "Father of Eliezer Kotcher",
+                    "Father of E Kotcher",
+                    "Father of Kotcher",
+                    "Father o E Kotcher",
+                    "Father o Kotcher",
+                    "Father Kotcher",
+                    "F o E Kotcher",
+                    "F o Kotcher",
+                    "F Kotcher"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1001109",
+                "name": "Mother of Eliezer Kotcher",
+                "names": [
+                    "Mother of Eliezer",
+                    "Mother of E",
+                    "Mother of",
+                    "Mother o E",
+                    "Mother o",
+                    "Mother",
+                    "M o E",
+                    "M o",
+                    "M"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500021",
+                "name": "Chaia Sarah Yanover Diskin",
+                "names": [
+                    "Chaia Sarah",
+                    "Chaia S",
+                    "Chaia",
+                    "C S",
+                    "C"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500165",
+                "name": "\u05d7\u05d9\u05d4 \u05e8\u05d1\u05e7\u05d4 \u05d1\u05d9\u05d2\u05e8 1",
+                "names": [
+                    "\u05d7\u05d9\u05d4 \u05e8\u05d1\u05e7\u05d4",
+                    "\u05d7\u05d9\u05d4",
+                    ""
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": false
+            },
+            {
+                "id": "49174092-1500019",
+                "name": "Chaia Reisha Shatz Diskin",
+                "names": [
+                    "Chaia Reisha",
+                    "Chaia R",
+                    "Chaia",
+                    "C R",
+                    "C"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false,
+                "occurrences": 2
+            },
+            {
+                "id": "49174092-1500018",
+                "name": "Avraham Shmuel Shatz Diskin",
+                "names": [
+                    "Avraham Shmuel Shatz Diskin",
+                    "Avraham S Shatz Diskin",
+                    "Avraham Shatz Diskin",
+                    "A S Shatz Diskin",
+                    "A Shatz Diskin"
+                ],
+                "gender": "M",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": false,
+                "occurrences": 2
+            },
+            {
+                "id": "49174092-1500164",
+                "name": "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05dc\u05d9\u05d9\u05d1 \u05d1\u05d9\u05d2\u05e8",
+                "names": [
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05dc\u05d9\u05d9\u05d1 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d9\u05e6\u05d7\u05e7 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d1\u05d9\u05d2\u05e8"
+                ],
+                "gender": "M",
+                "yearsRange": "1845 - 1913",
+                "birthDate": 1845,
+                "deathDate": "January 9 1913",
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500297"
+                }
+            },
+            {
+                "id": "49174092-1500169",
+                "name": "\u05de\u05e8\u05d9\u05dd \u05e4\u05d3\u05e8\u05de\u05df (born \u05e1\u05e4\u05e7\u05d8\u05d5\u05e8)",
+                "names": [
+                    "\u05de\u05e8\u05d9\u05dd \u05e1\u05e4\u05e7\u05d8\u05d5\u05e8",
+                    "\u05e1\u05e4\u05e7\u05d8\u05d5\u05e8"
+                ],
+                "gender": "F",
+                "yearsRange": "Deceased",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": false,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500167"
+                }
+            },
+            {
+                "id": "49174092-1500168",
+                "name": "\u05d0\u05d1\u05e8\u05d4\u05dd  \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e1\u05d5\u05e4\u05e8 \u05e4\u05d3\u05e8\u05de\u05df",
+                "names": [
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd  \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e1\u05d5\u05e4\u05e8 \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd \u05d0\u05d1\u05e8\u05d4\u05de\u05dc \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05d0\u05d1\u05e8\u05d4\u05dd \u05e4\u05d3\u05e8\u05de\u05df",
+                    "\u05e4\u05d3\u05e8\u05de\u05df"
+                ],
+                "gender": "M",
+                "yearsRange": "1846 - Deceased",
+                "birthDate": 1846,
+                "deathDate": "",
+                "generation": 5,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500443",
+                "name": "\u05e9\u05d5\u05dc\u05dd \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8",
+                "names": [
+                    "\u05e9\u05d5\u05dc\u05dd \u05e9\u05dc\u05d5\u05dd \u05d1\u05d9\u05d2\u05e8",
+                    "\u05e9\u05d5\u05dc\u05dd \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d1\u05d9\u05d2\u05e8"
+                ],
+                "gender": "M",
+                "yearsRange": "Died: 1857",
+                "birthDate": "",
+                "deathDate": "October 7 1857",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500269",
+                "name": "Sora Reisel Spektor (born Yezerski)",
+                "names": [
+                    "Sora Reisel Yezerski",
+                    "Sora R Yezerski",
+                    "Sora Yezerski",
+                    "S R Yezerski",
+                    "S Yezerski"
+                ],
+                "gender": "F",
+                "yearsRange": "",
+                "birthDate": "",
+                "deathDate": "",
+                "generation": 6,
+                "recordMatches": false,
+                "smartMatches": true
+            },
+            {
+                "id": "49174092-1500268",
+                "name": "Isaac Elhanan Spektor",
+                "names": [
+                    "Isaac Elhanan Spektor",
+                    "Isaac E Spektor",
+                    "Isaac Spektor",
+                    "I E Spektor",
+                    "I Spektor"
+                ],
+                "gender": "M",
+                "yearsRange": "1817 - 1896",
+                "birthDate": 1817,
+                "deathDate": "March 6 1896",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": true,
+                "parents": {
+                    "familyId": "49174092-1500294"
+                },
+                "photo": {
+                    "url": "https:\/\/thumbnail.myheritageimages.com\/174\/092\/49174092\/503\/503194_58712227a5ads4fev4695o_G_60x79.jpg",
+                    "width": 60,
+                    "height": 79
+                }
+            },
+            {
+                "id": "49174092-1500444",
+                "name": "\u05d1\u05d9\u05d9\u05dc\u05d0 \u05e4\u05e8\u05d9\u05d5\u05d5\u05d4 \u05d1\u05d9\u05d2\u05e8",
+                "names": [
+                    "\u05d1\u05d9\u05d9\u05dc\u05d0 \u05e4\u05e8\u05d9\u05d5\u05d5\u05d4 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d1\u05d9\u05d9\u05dc\u05d0 \u05d1\u05d9\u05d2\u05e8",
+                    "\u05d1\u05d9\u05d2\u05e8"
+                ],
+                "gender": "F",
+                "yearsRange": "1806 - 1869",
+                "birthDate": 1806,
+                "deathDate": "October 26 1869",
+                "generation": 6,
+                "recordMatches": true,
+                "smartMatches": true
+            }
+        ],
+        "families": [
+            {
+                "id": "49174092-1000003",
+                "husbandId": "49174092-1000005",
+                "wifeId": "49174092-1000005",
+                "status": "Married",
+                "generation": 0
+            },
+            {
+                "id": "49174092-1000007",
+                "husbandId": "49174092-1000019",
+                "wifeId": "49174092-1000019",
+                "status": "Married",
+                "generation": 1
+            },
+            {
+                "id": "49174092-1000015",
+                "husbandId": "49174092-1000017",
+                "wifeId": "49174092-1000017",
+                "status": "Married",
+                "generation": 1
+            },
+            {
+                "id": "49174092-1000120",
+                "husbandId": "49174092-1000341",
+                "wifeId": "49174092-1000341",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000041",
+                "husbandId": "49174092-1000135",
+                "wifeId": "49174092-1000135",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000016",
+                "husbandId": "49174092-1000068",
+                "wifeId": "49174092-1000068",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000121",
+                "husbandId": "49174092-1000344",
+                "wifeId": "49174092-1000344",
+                "status": "Married",
+                "generation": 2
+            },
+            {
+                "id": "49174092-1000021",
+                "husbandId": "49174092-1000087",
+                "wifeId": "49174092-1000087",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000165",
+                "husbandId": "49174092-1000494",
+                "wifeId": "49174092-1000494",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1500065",
+                "husbandId": "49174092-1500160",
+                "wifeId": "49174092-1500160",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000226",
+                "husbandId": "49174092-1000663",
+                "wifeId": "49174092-1000663",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000311",
+                "husbandId": "49174092-1000887",
+                "wifeId": "49174092-1000887",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1000171",
+                "husbandId": "49174092-1000516",
+                "wifeId": "49174092-1000516",
+                "status": "Married",
+                "generation": 3
+            },
+            {
+                "id": "49174092-1500066",
+                "husbandId": "49174092-1500164",
+                "wifeId": "49174092-1500164",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500067",
+                "husbandId": "49174092-1500168",
+                "wifeId": "49174092-1500168",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000383",
+                "husbandId": "49174092-1001108",
+                "wifeId": "49174092-1001108",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500012",
+                "husbandId": "49174092-1500020",
+                "wifeId": "49174092-1500020",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1000393",
+                "husbandId": "49174092-1001145",
+                "wifeId": "49174092-1001145",
+                "status": "Married",
+                "generation": 4
+            },
+            {
+                "id": "49174092-1500297",
+                "husbandId": "49174092-1500443",
+                "wifeId": "49174092-1500443",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1500167",
+                "husbandId": "49174092-1500268",
+                "wifeId": "49174092-1500268",
+                "status": "Married",
+                "generation": 5
+            },
+            {
+                "id": "49174092-1500011",
+                "husbandId": "49174092-1500018",
+                "wifeId": "49174092-1500018",
+                "status": "Married",
+                "generation": 5
+            }
+        ]
+    }
+}
